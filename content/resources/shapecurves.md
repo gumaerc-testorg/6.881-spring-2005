@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8bace91d-9f2d-6d98-8abf-c4b35aafbe65
 resourcetype: Document
 title: Shape Influence in Geodesic Active Contours
 uid: 2cb31e77-3f7a-56dd-59a8-779436881eef

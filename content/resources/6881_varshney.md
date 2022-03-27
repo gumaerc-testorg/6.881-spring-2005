@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 4b1af640-a5f8-cd18-9d24-9653c2760d65
 resourcetype: Document
 title: Application of Locally Linear Embedding to the Spaces of Social Interactions
   and Signed Distance Functions
