@@ -1,9 +1,9 @@
 ---
 content_type: page
+description: This section provides lecture notes from the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
-parent_uid: null
 title: Lecture Notes
 uid: 8bace91d-9f2d-6d98-8abf-c4b35aafbe65
 ---
@@ -26,7 +26,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction, Tutorial on PCA ({{< resource_link c0f799b2-b9f9-3d19-8401-bb6f31197977 "PDF" >}})
+Introduction, Tutorial on PCA ({{% resource_link c0f799b2-b9f9-3d19-8401-bb6f31197977 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -35,7 +35,7 @@ Introduction, Tutorial on PCA ({{< resource_link c0f799b2-b9f9-3d19-8401-bb6f311
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Eigenfaces ({{< resource_link bc1e36c1-52a2-6256-2765-5411c93c2b93 "PDF" >}})
+Eigenfaces ({{% resource_link bc1e36c1-52a2-6256-2765-5411c93c2b93 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -125,7 +125,7 @@ Geodesic Active Contours
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Shape Based Curve Evolution ({{< resource_link 2cb31e77-3f7a-56dd-59a8-779436881eef "PDF" >}})
+Shape Based Curve Evolution ({{% resource_link 2cb31e77-3f7a-56dd-59a8-779436881eef "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -170,7 +170,7 @@ Graph Cuts for Energy Minimization
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Belief Propagation ({{< resource_link 41016050-4e0f-bda6-3672-9bb9444f572e "PDF" >}})
+Belief Propagation ({{% resource_link 41016050-4e0f-bda6-3672-9bb9444f572e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

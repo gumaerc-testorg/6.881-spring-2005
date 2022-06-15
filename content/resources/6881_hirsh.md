@@ -2,7 +2,7 @@
 content_type: resource
 description: Final project report on a proposed method for tracking large numbers
   of objects in clutter in an open system.
-file: /media/courses/6-881-representation-and-modeling-for-image-analysis-spring-2005/3600e281b76fb5fa96e142d985d56bce_6881_hirsh.pdf
+file: /courses/6-881-representation-and-modeling-for-image-analysis-spring-2005/3600e281b76fb5fa96e142d985d56bce_6881_hirsh.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
@@ -14,3 +14,5 @@ resourcetype: Document
 title: Massively Multi-target Tracking for Objects in Clutter
 uid: 3600e281-b76f-b5fa-96e1-42d985d56bce
 ---
+Final project report on a proposed method for tracking large numbers of objects in clutter in an open system.
+

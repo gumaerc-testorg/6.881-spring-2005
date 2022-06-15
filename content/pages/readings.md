@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section provides the list of assigned readings and optional readings
+  for each session of the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: e1e8ff3c-2dba-3ffb-8d6a-ce0e85bd54da
 ---
