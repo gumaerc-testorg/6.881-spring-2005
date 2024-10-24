@@ -5,7 +5,7 @@ description: 'Lecture presentation on the following topics: segmentation, geodes
   variation (using PCA), shape distribution, modified evolution equation, shape+pose
   estimation, corpus callosum segmentation, spine modes, segmentation of the vertebrae,
   comparison to human expert, and summary.'
-file: /courses/6-881-representation-and-modeling-for-image-analysis-spring-2005/2cb31e773f7a56dd59a8779436881eef_shapecurves.pdf
+file: /ol-ocw-studio-app/courses/6-881-representation-and-modeling-for-image-analysis-spring-2005/2cb31e773f7a56dd59a8779436881eef_shapecurves.pdf
 file_size: 931469
 file_type: application/pdf
 learning_resource_types:
