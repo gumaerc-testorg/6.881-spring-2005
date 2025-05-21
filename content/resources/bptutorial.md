@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on inference in graphical models, variational methods,
   and extensions of belief propagation.
-file: /ol-ocw-studio-app/courses/6-881-representation-and-modeling-for-image-analysis-spring-2005/410160504e0fbda636729bb9444f572e_bptutorial.pdf
+file: /courses/6-881-representation-and-modeling-for-image-analysis-spring-2005/410160504e0fbda636729bb9444f572e_bptutorial.pdf
 file_size: 1014957
 file_type: application/pdf
 learning_resource_types:
